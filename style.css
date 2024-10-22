@@ -143,6 +143,7 @@ body {
         display: grid;
         grid-template-rows: 1fr auto;
         background-image: url(./images/pattern-background-mobile.svg);
+        background-position: 0 0;
     }
 
     .card {
