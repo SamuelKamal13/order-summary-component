@@ -139,7 +139,7 @@ body {
 
 @media (max-width: 375px) {
     body {
-        padding: 10px 0;
+        padding: 10px 0 0 0;
         display: grid;
         grid-template-rows: 1fr auto;
         background-image: url(./images/pattern-background-mobile.svg);
